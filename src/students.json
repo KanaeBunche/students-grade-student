@@ -1,21 +1,2 @@
-[
-    {
-      "name": "Alice",
-      "age": 20,
-      "grade": "A",
-      "subject": "Math"
-    },
-    {
-      "name": "Bob",
-      "age": 22,
-      "grade": "B",
-      "subject": "Science"
-    },
-    {
-      "name": "Charlie",
-      "age": 19,
-      "grade": "A",
-      "subject": "History"
-    }
-  ]
-  
+
+// Add the name age, grade subject for each student
